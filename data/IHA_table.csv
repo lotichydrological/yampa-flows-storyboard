@@ -1,0 +1,57 @@
+"Type","SubType","Risk","Count"
+"Duration","High Flow","Low Risk",1102
+"Duration","High Flow","Moderate Risk",141
+"Duration","High Flow","High Risk",101
+"Duration","High Flow","Extreme Risk",42
+"Duration","Low Flow","Low Risk",551
+"Duration","Low Flow","Moderate Risk",371
+"Duration","Low Flow","High Risk",365
+"Duration","Low Flow","Extreme Risk",482
+"Duration","Flow Variability","Low Risk",1027
+"Duration","Flow Variability","Moderate Risk",325
+"Duration","Flow Variability","High Risk",211
+"Duration","Flow Variability","Extreme Risk",325
+"Frequency","High Flow","Low Risk",847
+"Frequency","High Flow","Moderate Risk",139
+"Frequency","High Flow","High Risk",70
+"Frequency","High Flow","Extreme Risk",204
+"Frequency","Low Flow","Low Risk",187
+"Frequency","Low Flow","Moderate Risk",62
+"Frequency","Low Flow","High Risk",21
+"Frequency","Low Flow","Extreme Risk",108
+"Magnitude","High Flow","Low Risk",1924
+"Magnitude","High Flow","Moderate Risk",602
+"Magnitude","High Flow","High Risk",283
+"Magnitude","High Flow","Extreme Risk",89
+"Magnitude","Low Flow","Low Risk",786
+"Magnitude","Low Flow","Moderate Risk",372
+"Magnitude","Low Flow","High Risk",260
+"Magnitude","Low Flow","Extreme Risk",345
+"Magnitude","Typical Flow","Low Risk",1023
+"Magnitude","Typical Flow","Moderate Risk",341
+"Magnitude","Typical Flow","High Risk",213
+"Magnitude","Typical Flow","Extreme Risk",187
+"Magnitude","Flow Variability","Low Risk",3695
+"Magnitude","Flow Variability","Moderate Risk",895
+"Magnitude","Flow Variability","High Risk",491
+"Magnitude","Flow Variability","Extreme Risk",331
+"Rate of change","Typical Flow","Low Risk",421
+"Rate of change","Typical Flow","Moderate Risk",170
+"Rate of change","Typical Flow","High Risk",31
+"Rate of change","Typical Flow","Extreme Risk",8
+"Rate of change","Flow Variability","Low Risk",369
+"Rate of change","Flow Variability","Moderate Risk",78
+"Rate of change","Flow Variability","High Risk",51
+"Rate of change","Flow Variability","Extreme Risk",6
+"Timing","High Flow","Low Risk",126
+"Timing","High Flow","Moderate Risk",0
+"Timing","High Flow","High Risk",0
+"Timing","High Flow","Extreme Risk",0
+"Timing","Low Flow","Low Risk",119
+"Timing","Low Flow","Moderate Risk",49
+"Timing","Low Flow","High Risk",51
+"Timing","Low Flow","Extreme Risk",33
+"Timing","Flow Variability","Low Risk",328
+"Timing","Flow Variability","Moderate Risk",15
+"Timing","Flow Variability","High Risk",16
+"Timing","Flow Variability","Extreme Risk",19
